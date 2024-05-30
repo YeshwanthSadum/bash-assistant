@@ -1,4 +1,4 @@
-# 🚀 Chat assistant for Linux, A step towards LLM OS. 
+# 🚀 Chat assistant for Linux, A step towards LLM OS
 
 Llama-index + OpenAI Agent + Streamlit
 
@@ -20,3 +20,10 @@ Steps:
 
 2. Go to the folder where "bash_assistant.py" is present and run
 `streamlit run bash_assistant.py`
+-------------------------------
+Demo Video:
+
+[Video](https://github.com/YeshwanthSadum/bash-assistant/assets/92825419/5107ca34-0658-453b-bedf-6b4d23046645)
+
+
+
